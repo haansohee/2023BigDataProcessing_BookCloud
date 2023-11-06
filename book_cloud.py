@@ -118,9 +118,6 @@ driver = webdriver.Chrome(service=service, options=options)
 description = []
 category = []
 
-print(top100_book_data.iloc[57][5])
-print(top100_book_data.iloc[58][5])
-
 for i in range(0, 100):
 
   book_isbn = urllib.parse.quote(top100_book_data.iloc[i][5])
