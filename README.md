@@ -46,7 +46,8 @@ Top100 도서에서 인기가 많았던 카테고리 3개는 **한국소설, 영
 
 ### Top 10 도서 워드클라우드 결과
 
-<img width="1243" alt="스크린샷 2023-11-06 오후 10 45 47" src="https://github.com/haansohee/2023BigDataProcessing_BookCloud/assets/90755590/5b31069b-73a0-40dd-b852-aeccd1c60b5a">
+![image](https://github.com/haansohee/2023BigDataProcessing_BookCloud/assets/90755590/48abeacb-3e78-4e47-81b0-afde5e32e0de)
+
 
 
 
